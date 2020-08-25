@@ -1,3 +1,5 @@
-# hardcore-functional-js-v2
+# fp-js
 
-For solutions, look at the solution branch.
+solutions
+
+credits to mr brian lonsdorf
